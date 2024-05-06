@@ -1,6 +1,9 @@
-![MasterHead](https://i.pinimg.com/originals/f4/d9/97/f4d997af718c1c9b6f3d672b3117f7ce.gif)
+<div style="text-align: center;">
+    <img src="https://i.pinimg.com/originals/f4/d9/97/f4d997af718c1c9b6f3d672b3117f7ce.gif" alt="MasterHead">
+</div>
 <h1 align="center">Hi 👋, I'm Bilal Malik</h1>
 <h3 align="center">A Computer Engineering Student at Toronto Metropolitan University</h3>
+
 
 - 📫 How to reach me **bilalm1409@gmail.com**
 
