@@ -3,7 +3,7 @@
     <h1>Hi 👋, I'm Bilal Malik</h1>
     <h3>A Computer Engineering Student at Toronto Metropolitan University</h3>
 
-    <p>- 📫 How to reach me <strong>bilalm1409@gmail.com</strong></p>
+- 📫 How to reach me <strong>bilalm1409@gmail.com</strong></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
