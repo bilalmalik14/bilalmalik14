@@ -1,4 +1,4 @@
-<h1 align="center">![MasterHead](https://cdn.dribbble.com/users/2126682/screenshots/9447454/image.gif)
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2126682/screenshots/9447454/image.gif")
 <h1 align="center">Hi 👋, I'm Bilal Malik</h1>
 <h3 align="center">A Computer Engineering Student at Toronto Metropolitan University</h3>
 (img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnBjNWEyZmdhaThzZHNlNWZtZDlncHpiejk3azB0cjZrajQzaHY4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif")
