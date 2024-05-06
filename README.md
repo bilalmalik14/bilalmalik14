@@ -1,11 +1,9 @@
 <div style="text-align: center;">
     <img src="https://i.pinimg.com/originals/f4/d9/97/f4d997af718c1c9b6f3d672b3117f7ce.gif" alt="MasterHead">
-</div>
-<h1 align="center">Hi 👋, I'm Bilal Malik</h1>
-<h3 align="center">A Computer Engineering Student at Toronto Metropolitan University</h3>
+    <h1>Hi 👋, I'm Bilal Malik</h1>
+    <h3>A Computer Engineering Student at Toronto Metropolitan University</h3>
 
-
-- 📫 How to reach me **bilalm1409@gmail.com**
+    <p>- 📫 How to reach me <strong>bilalm1409@gmail.com</strong></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
