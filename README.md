@@ -1,7 +1,6 @@
-![MasterHead](https://i.pinimg.com/originals/f4/d9/97/f4d997af718c1c9b6f3d672b3117f7ce.gif)
+                                             ![MasterHead](https://i.pinimg.com/originals/f4/d9/97/f4d997af718c1c9b6f3d672b3117f7ce.gif)
 <h1 align="center">Hi 👋, I'm Bilal Malik</h1>
 <h3 align="center">A Computer Engineering Student at Toronto Metropolitan University</h3>
-(img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnBjNWEyZmdhaThzZHNlNWZtZDlncHpiejk3azB0cjZrajQzaHY4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif")
 
 - 📫 How to reach me **bilalm1409@gmail.com**
 
